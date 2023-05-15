@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "SachinRa",
+      "uname": "Sachin Rathod",
+      "pass": "SachinRa",
+      "email": "SachinRa@gmail.com",
+      "phone": "9856320147",
+      "country": "India",
+      "address": "Pune",
+      "gender": "male"
+    },
+    {
+      "id": "SachinRathod",
+      "uname": "SachinRathod",
+      "pass": "SachinRathod",
+      "email": "sa@gmail.com",
+      "phone": "9874563210",
+      "country": "India",
+      "address": "Pune",
+      "gender": "male"
+    }
+  ]
+}
